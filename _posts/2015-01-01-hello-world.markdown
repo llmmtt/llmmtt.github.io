@@ -3,10 +3,10 @@ layout: post
 title:  "Hello World!"
 date:   2015-01-01 11:08:18
 categories: jekyll update
-
+tag: Life
 ---
-    新年快乐,也是强行在新年第一天研究懂了Jekyll，然后找了一个比较简洁的主题，勉勉强强搭起了自己人生中的第二个博客（第一个CSDN已经夭折了233333）
-    恩，开这个博客主要还是想记录一下自己在今后程序猿生涯中学习和生活的点点滴滴。
-    恩，新的一年已经到来了，还是简单的规划一下自己的2015吧，恩本来之前是做Android开发的，被转到iOS开发，虽然最初有点不情愿，但很快还是适应了，一切又是新的开始，新平台新起点，还是得靠自己多学习，多写代码多看书。
-    恩，就这样吧，不写了,明天还要上班=。=
-    Footnotes work mostly like reference-style links. A footnote is made of two things: a marker in the text that will become a superscript number; a footnote definition that will be placed in a list of footnotes at the end of the document. A footnote looks like this:
+新年快乐,也是强行在新年第一天研究懂了Jekyll，然后找了一个比较简洁的主题，勉勉强强搭起了自己人生中的第二个博客（第一个CSDN已经夭折了233333）
+恩，开这个博客主要还是想记录一下自己在今后程序猿生涯中学习和生活的点点滴滴。
+恩，新的一年已经到来了，还是简单的规划一下自己的2015吧，恩本来之前是做Android开发的，被转到iOS开发，虽然最初有点不情愿，但很快还是适应了，一切又是新的开始，新平台新起点，还是得靠自己多学习，多写代码多看书。
+恩，就这样吧，不写了,明天还要上班=。=
+
