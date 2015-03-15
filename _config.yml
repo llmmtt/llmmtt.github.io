@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "LiMengtian"
+title: "安鸿鹏"
 description: > # this means to ignore newlines until "email:"
    iOS菜鸟程序猿，爱狗，抖M
 
@@ -13,8 +13,8 @@ logo: "/assets/images/author.png"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'LiMengtian'
-author: 'LiMengtian'
+name: '安鸿鹏'
+author: '安鸿鹏'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
